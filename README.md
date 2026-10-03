@@ -6,4 +6,4 @@ Git → Jenkins → Build & Test Maven → Docker Build → Docker Push → Dép
 
 - Image : `backend-app:latest` (publiée sur `localhost:5000`)
 - Conteneurs : `mysql`, `backend-app`
-- Accès : http://192.168.33.10:8089/entreprise/all
+- Accès : http://localhost:8089/entreprise/all
